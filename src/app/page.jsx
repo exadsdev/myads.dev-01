@@ -53,7 +53,7 @@ export default function Homepage() {
         <meta name="description" content="www.myads.dev รับจ้างยิงแอดทำโฆษณาออนไลน์รับทำโฆษณา Facebook Adsรับทำโฆษณา Googleทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ อัตราค่าบริการเพียงเดือนละ 9,900 บาท" />
         <meta property="og:title" content="รับจ้างยิงแอดทำโฆษณาออนไลน์Google, Facebook Ads"/>
         <meta property="og:description" content="รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณาGoogleทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ อัตราค่าบริการเพียงเดือนละ 9,900 บาท"/>
-      <meta property="og:image" content="https://www.myads.dev/img/ads.webp"/>
+      <meta property="og:image" content="https://www.myads.dev/img/ggads.jpg"/>
           <meta property="og:image:type" content="image/png"/>
             <meta property="og:image:width" content="2000"/>
             <meta property="og:image:height" content="1000"/>
