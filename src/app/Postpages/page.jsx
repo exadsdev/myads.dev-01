@@ -80,7 +80,7 @@ export default function Page() {
 <meta property="og:url" content="https://www.myads.dev/PostPage"/>
 <meta name="robots" content="index, follow"/>
 <meta property="og:type" content="website"/>
-<link rel="shortcut icon" href="https://www.myads.dev/favicon.ico" type="image/x-icon"/> 
+ <link rel="shortcut icon" href="https://www.myads.dev/favicon.ico" type="image/x-icon"/>
 
         <meta name="robots" content="index, follow"/>
         <link rel="canonical" href="https://www.myads.dev/PostPage" />
