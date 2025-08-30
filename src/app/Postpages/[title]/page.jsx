@@ -51,9 +51,11 @@ const PostDetailPage = () => {
         <div className="title h3 text-center">{post.title}</div>
 
         {post.name ? (
-          <iframe
-            width="560"
-            height="315"
+         <>
+         <div className="mx-auto">
+           <iframe
+            width="1120"
+            height="630"
             className="vdoimg"
             src={`https://www.youtube.com/embed/${post.name}`}
             title="YouTube video player"
@@ -61,6 +63,8 @@ const PostDetailPage = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
           ></iframe>
+         </div>
+         </>
         ) : (
           <img
             src={`${urlimg}${post.imgvdo}`}
