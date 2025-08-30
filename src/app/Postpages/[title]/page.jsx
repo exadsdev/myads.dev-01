@@ -43,7 +43,7 @@ const PostDetailPage = () => {
         <meta property="og:type" content="website"/>
 
         <meta name="robots" content="index, follow"/>
-        <link rel="shortcut icon" href="https://www.myads.dev/favicon.ico" type="image/x-icon"/>
+       <link rel="shortcut icon" href="https://www.myads.dev/favicon.ico" type="image/x-icon"/>
         <link rel="canonical" href="https://www.myads.dev/Postpages/" />
       </>
     <div className="container mx-auto">
