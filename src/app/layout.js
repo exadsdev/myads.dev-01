@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta name="google-site-verification" content="ryOmDGaWXKrwl4E9xiLHh2maGVlmpjzyFN8m9QfAyyM" />
         <meta property="og:type" content="website"/>
-        <link rel="shortcut icon" href="https://www.myad-dev.com/favicon.ico" type="image/x-icon"/> 
+        <link rel="shortcut icon" href="https://www.myads.dev/favicon.ico" type="image/x-icon"/> 
          
         <Script
           strategy="afterInteractive"
